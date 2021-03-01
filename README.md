@@ -1,4 +1,4 @@
-# Projects
+# Face Detection with OpenCV
 
 # Aim
 The aim of the project is to determine the number of faces present in a given image by face detection and generate an output indicating the count.
