@@ -1,7 +1,7 @@
 # Projects
 
 # Aim
-The aim of the project is to determine the number of faces present in the given inputs of images and generate an output indicating their respective counts.
+The aim of the project is to determine the number of faces present in a given image by face detection and generate an output indicating the count.
 
 # Methodology
 1. First of all, the necessary libraries to be used are imported
